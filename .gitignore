@@ -1,0 +1,18 @@
+# .gitignore
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build artifacts and logs
+dist/
+logs/
+*.log
+.cache/
+.parcel-cache/
+.idea/
+*.pdf
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.env
